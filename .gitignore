@@ -53,3 +53,13 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Project executables
+baseline
+optimized
+
+# macOS files
+.DS_Store
+
+baseline_O2
+optimized_O2
